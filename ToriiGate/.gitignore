@@ -80,3 +80,8 @@ DerivedDataCache/*
 
 !Plugins/ElectronicNodes/
 !Plugins/ElectronicNodes/**
+
+# Big file there is no other option but to ignore it. 
+# remember to add it in project. 
+# https://fab.com/s/5db64af5b801
+Content/EuropeanBeech/
